@@ -1,1 +1,2 @@
 # SQLchatbot
+This is [Microsoft Bot Framework](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-3.0) based bot which utilizes a hierarchical structure of questions and answers. Bot's Q&A database is in Russian; however, any other language can be configured. Q&A database is stored in Azure SQL. Bot makes a query to SQL database and provides this information in the required format.
